@@ -1,26 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails application that allows users to crete own portfolios.
 
-Things you may want to cover:
+### Features
 
-## Ruby version
-- `ruby-2.3.1`
-## System dependencies
+- Real time chat engine for comments
+- Blog
+- Portfolio
+- Drag and drop interface
 
-## Configuration
+### Code Example
 
-## Database creation
+```ruby
+def my_great_method
+    puts "here it is"
+end
+```
 
-## Database initialization
-- `bundle exec rake db:create`
-- `bundle exec rake db:migrate`
-## How to run the test suite
-
-## Services (job queues, cache servers, search engines, etc.)
-
-## Deployment instructions
-
-## ...
-# DevcampPortfolio
+```javascript
+alert('Hi ther');
+```
