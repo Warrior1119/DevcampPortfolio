@@ -1,6 +1,6 @@
 # README
 
-This is a Ruby on Rails application that allows users to crete own portfolios.
+> This is a Ruby on Rails application that allows users to crete own portfolios.
 
 ### Features
 
@@ -18,5 +18,5 @@ end
 ```
 
 ```javascript
-alert('Hi ther');
+alert('Hi there');
 ```
